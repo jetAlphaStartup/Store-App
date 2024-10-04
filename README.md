@@ -48,11 +48,22 @@ The **Jethings Store App** is an essential tool for store owners, simplifying ho
 
 ---
 
-## **Technology Stack** 💻
-- **Frontend**: Kotlin (Jetpack Compose)
-- **Backend**: REST API integration for inventory management and order processing
-- **Database**: Room (for local product and order management)
-- **Delivery Integration**: API integration with delivery services for automated dispatch and tracking
+## **Visual Walkthrough** 📸
+
+![Sign Up](path/to/signup-image.png)
+*Sign up quickly with a simple, user-friendly interface.*
+
+![Log In](path/to/login-image.png)
+*Secure and fast login to access your store’s dashboard.*
+
+![Product List](path/to/product-list.png)
+*Easily manage your product listings with detailed descriptions and images.*
+
+![Order Management](path/to/order-management.png)
+*Track your orders and stay informed throughout the process.*
+
+![Delivery Tracking](path/to/delivery-tracking.png)
+*Get real-time updates on the delivery status of customer orders.*
 
 ---
 
