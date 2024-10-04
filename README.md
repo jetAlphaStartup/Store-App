@@ -50,20 +50,25 @@ The **Jethings Store App** is an essential tool for store owners, simplifying ho
 
 ## **Visual Walkthrough** 📸
 
-![Sign Up](path/to/signup-image.png)
+![Sign Up](https://github.com/user-attachments/assets/12cd0076-a48f-48ed-b1c1-8bf04721bf89)
 *Sign up quickly with a simple, user-friendly interface.*
 
-![Log In](path/to/login-image.png)
+![Log In](https://github.com/user-attachments/assets/9ba2530a-dd4b-47f4-abbd-f7fc0961479a)
 *Secure and fast login to access your store’s dashboard.*
 
-![Product List](path/to/product-list.png)
+![Product List](https://github.com/user-attachments/assets/3e2b924a-0027-401c-8022-0cb199212c0d)
 *Easily manage your product listings with detailed descriptions and images.*
 
-![Order Management](path/to/order-management.png)
+![Order Management](https://github.com/user-attachments/assets/b7686fae-bcc6-40ed-9280-444bf9109b11)
 *Track your orders and stay informed throughout the process.*
 
-![Delivery Tracking](path/to/delivery-tracking.png)
+![Delivery Tracking](https://github.com/user-attachments/assets/454b5e98-4e5f-4617-90b9-756c057245de)
 *Get real-time updates on the delivery status of customer orders.*
+
+
+![Delivery Tracking](https://github.com/user-attachments/assets/b622cdda-b624-47b0-84fe-33def4589981)
+*Get real-time updates on the delivery status of customer orders.*
+
 
 ---
 
