@@ -1,3 +1,11 @@
+
+<!-- Logo at the top -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c335611d-55f1-4242-97e8-d96ca544aab2" alt="Jethings Store App Logo" width="150"/>
+</p>
+
+
+
 # **Jethings Store App** 🏬📱  
 *Your Digital Partner for Retail Management and Wholesale Orders*
 
