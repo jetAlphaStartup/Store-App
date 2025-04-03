@@ -1,12 +1,12 @@
 
-<!-- Logo at the top -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c335611d-55f1-4242-97e8-d96ca544aab2" alt="Jethings Store App Logo" width="150"/>
+  <img src="https://github.com/user-attachments/assets/c335611d-55f1-4242-97e8-d96ca544aab2" alt="Styled Logo" width="500"/>
 </p>
 
 
+<!-- Centered, banner-style heading with an emoji -->
+<h2 align="center">✨ Jethings Store App ✨</h2>
 
-# **Jethings Store App** 🏬📱  
 *Your Digital Partner for Retail Management and Wholesale Orders*
 
 ---
